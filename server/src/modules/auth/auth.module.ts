@@ -26,5 +26,4 @@ import { User, UserSchema } from '../users/schemas/user.schema';
   providers: [AuthService, JwtStrategy, GoogleStrategy, TwitterStrategy],
   exports: [AuthService],
 })
-
 export class AuthModule {}

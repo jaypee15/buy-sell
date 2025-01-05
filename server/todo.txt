@@ -1,0 +1,2 @@
+better dto for login/register
+error handling for oauth failures
