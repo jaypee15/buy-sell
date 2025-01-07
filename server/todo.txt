@@ -1,2 +1,6 @@
 better dto for login/register
 error handling for oauth failures
+setup google and twitter auth apps
+Add email verification
+Create DTO validation pipes
+Add email templates with better styling for password resyts and all emails
